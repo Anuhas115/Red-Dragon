@@ -12,19 +12,13 @@ global.APIKeys = {
 }
 
 // EDIT THIS VALUES \\
-
-global.alivemsg = `📤🇱🇰🌈♥️★𖡹ᵏⁱⁿᵍ᪶𝙰𝙻𝙿𝙷𝙰🤗𖡹𝙱𝚘𝚝𖡹★♥️🌈🇱🇰
-
-
-🍁{sender} Hey There! I'm Online 24 × 7 🍁 🍁 BOT RUN TIME : {uptime} 🍁 🍁 Multi Device Bot In WhatsApp 🍁 🍁 My name : ❰ ᳆⃞⃚ 🇱🇰༊𝑨𝑹𝑴𝒀❥ᶜᵒᵐᵐᵃⁿᵈᵒ࿇𝍪sᴀⷩɪⷶᴛᷱᴇᷞᴍⷶ᭕͞𝐑𝐈𝐘𝐀𝐋⃚ˡᵒᵏᵘ᭕ᵏⁱⁿᵍ᪶𝙰𝙻𝙿𝙷𝙰🇱🇰❁͜͡⍤⃝⃤👨‍💻✊😜❱ 🍁 🍁 Developer: ❰ 👹 ❁͜͡᭕ᵏⁱⁿᵍ᪶𝙰𝙻𝙿𝙷𝙰᳅◎⃝»̶̶͓͓͓̽̽̽❁⛄* 👹 ❱ 🍁 🍁 Contact me : ❰ wa.me/94701655661❱ 🍁 🍁Thank You For Using ❰ 🍁🔱 ⃢ ᳆⃟🌎🥰ලෝ̵කෙ̬ම̶ ͢͢͢͢͢͢ල̵̬ස̶්̬ස̶න̶🥰🌸۞͢͠දෝ̶ණී̶  ͚͚͚̅̅͢හි̶̬න̶්ද̶ලු̶᳆⃟🥰🧚‍♂️ක̵තා̶ ͢͢͢͢͢͢වෙ̶න̶වා̶۞͢͠ ඇ̶හු̶නා̶🥰🥺  ͚͚͚̅̅͢➳̶̶̶᭄➤
+global.alivemsg = `📤i am aliving
 
 
 
-𝗥𝗘𝗗-𝗗𝗥𝗔𝗙𝗢𝗡ᵀᴹ 𝗺𝗮𝘀𝘁𝗲𝗿  https://sites.google.com/view/red-dragon-bot/home  
 
 
-👿𝐎𝐅𝐅𝐂𝐈𝐀𝐋👿 ┃╔════💠 𝐌𝐀𝐈𝐍 💠 ════╗ ┃║ ┃╠🧩 menu ┃╚══════════════════ *💯බොට් ඔන්ලයින් පවති💯* _*💔මෙය ස්වයංක්‍රීයව ක්‍රියාත්මක වන BOT GROUP එකකි..💔*_ ▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭ *🛡️බොට්ගේ command list එක ගැනීම සදහා _.menu_ command එක බාවිතා කරන්න..* *🛡️මෙයින් ඔබට අවශ්‍ය _song,video,photos,_ සහ තවත් බොහෝ දේ ලබා ගත හැක.* *🛡️කමාන්ඩ් යෙදීමේදී මුලට තිත අත්‍යාවශ්‍ය නොවේ..!* _*උදා -: .song නාදෙන්*_ *✺▬▬▬▬▬●RULES●▬▬▬▬▬* ⫷*❌වෙන GROUP වල LINK දාන්න එපා✪⫸ ⫷*❌SPAM ගහන්න එපා✪⫸ ⫷*❌බොට්ගෙ ඉන්බොක්ස් ගිහින් කොල් ගන්නෙප ඔටෝ බ්ලොක් වෙනවා✪⫸ ⫷*❌Do not pick up the calls 🤗 you will be automatically blocked✪⫸ ⫷*❌කුනුහරප කීවොත් ඔටෝ රිමූ✪⫸ ┃╔════💠 𝐍𝐎𝐓𝐄 💠 ════╗ ┃║https://chat.whatsapp.com/Lr6q5MilOLvBSlyMhuIDwf ┃╠🧩 ┃╚══════════════════ ♥️😘🙏𝐖𝐄𝐋𝐂𝐎𝐌𝐄🙏😘♥️ 🇱🇰❌⫷👿🅞🅦🅝🅔🅡👿⫸❌🇱🇰 .❌𝑰 𝑨𝑴.❌ ▚⫷ 𝐌𝐀𝐋𝐈𝐍𝐃𝐀⫸▞ ⫷𝐑𝐄𝐃𝐃𝐑𝐀𝐆𝐎𝐍 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓⫸ ▞▞▞▞▞▞▞▞▞▞▞▞▞▞▞▞▞▞▞▞▞▞▞▞▞
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+  
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
